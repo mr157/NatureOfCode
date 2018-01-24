@@ -36,4 +36,4 @@ git commit -m "First Commit"
 git remote add origin https://github.com/montaynej/workflows.git (Don't need everytime)
 git push -u origin master
 ```
-{% gist 9e1d58e2b38bb5c11f61f4a2aed0c27f %}
+
