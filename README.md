@@ -37,4 +37,3 @@ git remote add origin https://github.com/montaynej/workflows.git (Don't need eve
 git push -u origin master
 ```
 
-<script src="https://gist.github.com/montaynej/9e1d58e2b38bb5c11f61f4a2aed0c27f.js"></script>
